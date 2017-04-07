@@ -36,5 +36,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# WiFi
+PRODUCT_PACKAGES += \
+    TargetWifiOverlay
+
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/star/star-vendor.mk)
