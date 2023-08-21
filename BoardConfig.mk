@@ -4,13 +4,13 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/mars
+DEVICE_PATH := device/xiaomi/star
 
 # Inherit from sm8350-common
 include device/xiaomi/sm8350-common/BoardConfigCommon.mk
 
 # Board
-TARGET_BOOTLOADER_BOARD_NAME := mars
+TARGET_BOOTLOADER_BOARD_NAME := star
 
 # Display
 TARGET_SCREEN_DENSITY := 560
@@ -37,4 +37,4 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 TARGET_RECOVERY_UI_MARGIN_HEIGHT := 165
 
 # Include proprietary files
-include vendor/xiaomi/mars/BoardConfigVendor.mk
+include vendor/xiaomi/star/BoardConfigVendor.mk

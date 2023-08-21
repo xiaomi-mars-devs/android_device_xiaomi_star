@@ -1,9 +1,9 @@
 Copyright (C) 2023 The LineageOS Project
 
-Device configuration for Xiaomi Mi 11 Pro
+Device configuration for Xiaomi Mi 11 Ultra
 =========================================
 
-The Xiaomi Mi 11 Pro (codenamed _"mars"_) is a flagship smartphone from Xiaomi.
+The Xiaomi Mi 11 Ultra (codenamed _"star"_) is a flagship smartphone from Xiaomi.
 
 It was released in April 2021.
 
@@ -19,8 +19,8 @@ Storage | 128/256 GB, UFS 3.1
 Shipped Android Version | 11
 Battery | Li-Po 5000 mAh, non-removable
 Display | 1440 x 3200 pixels, 6.81 inches (~515 ppi density)
-Camera  | 50 MP main, 8 MP periscope telephoto, 13 MP ultrawide, 20 MP front
+Camera  | 50 MP main, 48 MP periscope telephoto, 48 MP ultrawide, 20 MP front
 
 ## Device picture
 
-![Xiaomi Mi 11 Pro](https://s2.loli.net/2023/03/27/YlSZmFPnJQ8bfd9.png "Xiaomi Mi 11 Pro")
+![Xiaomi Mi 11 Pro](https://s2.loli.net/2023/08/21/YpAkC59VtJjsL3z.png "Xiaomi Mi 11 Pro")
